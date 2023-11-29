@@ -80,3 +80,11 @@ footer {
   background-color: white;
   
 }
+
+.button-1{
+  padding: 10px;
+  background-color: #283149;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius:5px;
+}

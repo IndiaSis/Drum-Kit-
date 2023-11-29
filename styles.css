@@ -81,10 +81,10 @@ footer {
   
 }
 
-.footer{
-  padding: 10px;
-  background-color: #283149;
-  cursor: pointer;
-  text-decoration: none;
-  border-radius:5px;
+.button-1{
+  background-color: #00539CFF;
+  color: #FFD662FF;
+  border: 0;
+  border-radius: 5px;
+  text-align: center;
 }
